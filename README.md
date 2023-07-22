@@ -2,9 +2,10 @@
  - Course: COMP-350 Software Engineering
  - Professor: Terry Ryan
 
-## Scrum Master: Aaron Urrea
-## Developers: Aaron Urrea, Jon Roeske, Zachary Drake, Paul Kime & Connor Moore
-### Team One, Spring 2022
+### Scrum Master: Aaron Urrea
+### Developers: Aaron Urrea, Jon Roeske, Zachary Drake, Paul Kime & Connor Moore
+
+# Team One, Spring 2022
 ## Description:
 ### The project is to create software for “Gila Breath Camp,” a summer camp for kids, located in a remote, scenic part of the US. The software must support the work of the camp’s registration clerk.
 ### Task Requirements:
