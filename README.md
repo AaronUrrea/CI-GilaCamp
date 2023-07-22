@@ -2,8 +2,6 @@
  - Course: COMP-350 Software Engineering
  - Professor: Terry Ryan
 
----
-
 ## Scrum Master: Aaron Urrea
 ## Developers: Aaron Urrea, Jon Roeske, Zachary Drake, Paul Kime & Connor Moore
 ### Team One, Spring 2022
