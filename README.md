@@ -1,5 +1,10 @@
-# CSUCI, COMP-350 Software Engineering
-# Scrum Master: Aaron Urrea
+## CI-GilaCamp - Aaron Urrea
+ - Course: COMP-350 Software Engineering
+ - Professor: Terry Ryan
+
+---
+
+## Scrum Master: Aaron Urrea
 ## Developers: Aaron Urrea, Jon Roeske, Zachary Drake, Paul Kime & Connor Moore
 ### Team One, Spring 2022
 ## Description:
